@@ -1,0 +1,20 @@
+
+.productos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #b55f5f;
+}
+
+#form_productos{
+    width: 300px;
+   min-height: 200px;
+    background-color: rgb(181, 73, 73);
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
